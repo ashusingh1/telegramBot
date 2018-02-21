@@ -21,5 +21,3 @@ $bot->checkPinnedMessage();
 $bot->getChatAdmin('@yourgroup');
 
 *More Function Welcome
-
-*Author: Ashutosh Singh aka (jr.N00b)
